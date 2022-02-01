@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-color: #eaecef;
+}
+
+.message {
+  border-radius: 25px;
+  border-style: solid;
+  width: 400px;
+  height: auto;
+  padding: 15px;
+  background-color: white;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
